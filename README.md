@@ -60,9 +60,16 @@
 > Head over to the [Discussion Group](https://t.me/ULTRONBOTS) and [Update Channel](https://t.me/ULTRONBOTSV)
 
 ### CONTACT
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
 
 * [a href="https://t.me/OGGYMAMAN"]
 * [img src="https://t.me/OGGYMAMAN"]
+ </a>
+</p>
+</details>
+
 
 ### Project Credits 💆‍♂️
 
