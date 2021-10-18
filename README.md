@@ -61,7 +61,8 @@
 
 ### CONTACT
 
-<a href="https://t.me/OGGYMAMAN">
+* <a href="https://t.me/OGGYMAMAN">
+* <img src="https://t.me/OGGYMAMAN">
 
 ### Project Credits 💆‍♂️
 
