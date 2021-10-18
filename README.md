@@ -60,12 +60,13 @@
 > Head over to the [Discussion Group](https://t.me/ULTRONBOTS) and [Update Channel](https://t.me/ULTRONBOTSV)
 
 ### CONTACT
-<details><summary>Deploy To Heroku</summary>
+<details><summary> CONTACT ME</summary>
 <p>
 <br>
 
 * [a href="https://t.me/OGGYMAMAN"]
-* [img src="https://t.me/OGGYMAMAN"]
+* [img src="https://www.TELENGRAM.com/CONTACTME/button.svg" alt="CONTACTME">
+</a>
  </a>
 </p>
 </details>
