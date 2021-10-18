@@ -64,8 +64,9 @@
 <p>
 <br>
 
-* [a href="https://t.me/OGGYMAMAN"]
-* [img src="https://www.TELENGRAM.com/CONTACTME/button.svg" alt="CONTACTME">
+* <a href="https://t.me/OGGYMAMAN">
+* <img src="https://www.herokucdn.com/deploy/button.svg" alt="CONTACTME">
+</a>
 </a>
  </a>
 </p>
