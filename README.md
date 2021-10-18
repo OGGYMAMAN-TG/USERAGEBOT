@@ -65,7 +65,7 @@
 <br>
 
 * <a href="https://t.me/OGGYMAMAN">
-* <img src="https://www.herokucdn.com/deploy/button.svg" alt="CONTACTME">
+* <img src="https://www.herokucdn.com/CONTACTME/button.svg" alt="CONTACTME">
 </a>
 </a>
  </a>
