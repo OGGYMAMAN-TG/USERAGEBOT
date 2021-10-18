@@ -57,14 +57,14 @@
 
 ### Support & Discussions 👥
 
-> Head over to the [Discussion Group](https://t.me/usergeot) and [Update Channel](https://t.me/theUserge)
+> Head over to the [Discussion Group](https://t.me/ULTRONBOTS) and [Update Channel](https://t.me/ULTRONBOTSV)
 
 ### Project Credits 💆‍♂️
 
-* [Specially to these projects](https://github.com/UsergeTeam/Userge#inspiration-) 🥰
-* [Contributors](https://github.com/UsergeTeam/Userge/graphs/contributors) 👥
+* [Specially to these projects](https://github.com/irash1234567/USERAGE#inspiration-) 🥰
+* [Contributors](https://github.com/irash1234567/USERAGE/graphs/contributors) 👥
 
 ### Copyright & License 👮
 
-* Copyright (C) 2020 - 2021 by [UsergeTeam](https://github.com/UsergeTeam) ❤️️
-* Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/UsergeTeam/Userge/blob/master/LICENSE)
+* Copyright (C) 2020 - 2021 by [UsergeTeam](https://github.com/irash1234567/USERAGEBOT) ❤️️
+* Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/irash1234567/USERAGE/blob/master/LICENSE)
