@@ -1,24 +1,24 @@
 <p align="center">
-    <a href="https://github.com/UsergeTeam/Userge">
+    <a href="https://github.com/irash1234567/USERAGEBOT">
         <img src="resources/userge.png" alt="Userge">
     </a>
     <br>
     <b>Pluggable Telegram UserBot</b>
     <br>
-    <a href="https://github.com/UsergeTeam/Userge#inspiration-">Inspiration</a>
+    <a href="https://github.com/irash1234567/USERAGEBOT#inspiration-">Inspiration</a>
     &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#documentation-">Documentation</a>
+    <a href="https://github.com/irash1234567/USERAGEBOT#documentation-">Documentation</a>
     &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#deployment-">Deployment</a>
+    <a href="https://github.com/irash1234567/USERAGEBOT#deployment-">Deployment</a>
     &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#project-credits-">Project Credits</a>
+    <a href="https://github.com/irash1234567/USERAGEBOT#project-credits-">Project Credits</a>
     &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#copyright--license-">Copyright & License</a>
+    <a href="https://github.com/irash1234567/USERAGEBOT#copyright--license-">Copyright & License</a>
 </p>
 
 # Userge 🔥
 
-[![Build Status](https://travis-ci.com/UsergeTeam/Userge.svg?branch=alpha)](https://travis-ci.com/UsergeTeam/Userge)
+[![Build Status](https://travis-ci.com/UsergeTeam/Userge.svg?branch=alpha)](https://github.com/irash1234567/USERAGEBOT)
 ![Python Version](https://img.shields.io/badge/python-3.8/3.9-lightgrey)
 ![Release](https://img.shields.io/github/v/release/UsergeTeam/Userge)
 ![Stars](https://img.shields.io/github/stars/UsergeTeam/Userge)
@@ -61,10 +61,10 @@
 
 ### Project Credits 💆‍♂️
 
-* [Specially to these projects](https://github.com/irash1234567/USERAGE#inspiration-) 🥰
-* [Contributors](https://github.com/irash1234567/USERAGE/graphs/contributors) 👥
+* [Specially to these projects](https://github.com/irash1234567/USERAGEBOT#inspiration-) 🥰
+* [Contributors](https://github.com/irash1234567/USERAGEBOT/graphs/contributors) 👥
 
 ### Copyright & License 👮
 
 * Copyright (C) 2020 - 2021 by [UsergeTeam](https://github.com/irash1234567/USERAGEBOT) ❤️️
-* Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/irash1234567/USERAGE/blob/master/LICENSE)
+* Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/irash1234567/USERAGEBOT/blob/master/LICENSE)
