@@ -55,6 +55,10 @@
 
 ## [Plugins](https://github.com/irash1234567/USERAGEBOT-Plugins) 🔌
 
+### Pre Requisites
+
+ *  [STRINGSESSION](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1) 🔌
+
 ### Support & Discussions 👥
 
 > Head over to the [Discussion Group](https://t.me/ULTRONBOTS) and [Update Channel](https://t.me/ULTRONBOTSV)
