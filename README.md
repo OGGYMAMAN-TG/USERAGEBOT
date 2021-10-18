@@ -53,7 +53,7 @@
 
 ## [Deployment](http://theuserge.tech/deployment) 👷
 
-## [Plugins](https://github.com/UsergeTeam/Userge-Plugins) 🔌
+## [Plugins](https://github.com/irash1234567/USERAGEBOT-Plugins) 🔌
 
 ### Support & Discussions 👥
 
@@ -61,8 +61,8 @@
 
 ### CONTACT
 
-* <a href="https://t.me/OGGYMAMAN">
-* <img src="https://t.me/OGGYMAMAN">
+* [a href="https://t.me/OGGYMAMAN"]
+* [img src="https://t.me/OGGYMAMAN"]
 
 ### Project Credits 💆‍♂️
 
