@@ -72,7 +72,7 @@
 <p>
 <br>
 
-* <a href="https://t.me/OGGYMAMAN">
+ <a href="https://t.me/OGGYMAMAN">
 * <img src="https://www.herokucdn.com/CONTACTME/button.svg" alt="CONTACTME">
 </a>
 </a>
