@@ -60,11 +60,9 @@ details><summary>Deploy To Heroku</summary>
   ## PRE REQUEST IDENTYFY    
 
 
- *  -__ [STRINGSESSION](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1)
- *  -__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
-
-* -__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org)
-* -__YOUR BOT USE REDIS [REDIS](https://redis.com)
+ *  ->__  YOUR BOT STRING SESSION [STRINGSESSION](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1)
+ *  ->
+* ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org)
 
 ### Support & Discussions 👥
 
