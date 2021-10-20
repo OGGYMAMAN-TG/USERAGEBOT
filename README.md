@@ -57,13 +57,13 @@ details><summary>Deploy To Heroku</summary>
 </a>
 </p>
 </details>
-  ## PRE REQUEST IDENTYFY    
+  ### PRE REQUEST IDENTYFY    
 
 
  *  ->__  YOUR BOT STRING SESSION [STRINGSESSION](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1)
 * ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org)
 * * ->__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
-* YOUR USER ID AND CHANNEL ID [@ROSE](https://www.telengram.dog/miss_rosebot
+* YOUR USER ID AND CHANNEL ID [@ROSE](https://www.telengram.dog/miss_rosebot)
 
 ### Support & Discussions 👥
 
