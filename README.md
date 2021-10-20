@@ -56,7 +56,6 @@ details><summary>Deploy To Heroku</summary>
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"
 </a>
 </p>
-</details>
 ### Pre Requisites
 
  * ->__YOUR BOT STRING SESSION [STRINGSESSION](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1) 🔌
@@ -77,8 +76,6 @@ details><summary>Deploy To Heroku</summary>
  <a href="https://t.me/OGGYMAMAN">
 * <img src="https://www.herokucdn.com/CONTACTME/button.svg" alt="CONTACTME">
 </a>
-</a>
- </a>
 </p>
 </details>
 
