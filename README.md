@@ -57,6 +57,9 @@ details><summary>Deploy To Heroku</summary>
 
 ### Pre Requisites
 
+
+
+
  *  ->__YOUR BOT STRING SESSION [STRINGSESSION](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1) 🔌
  *  ->__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
 
