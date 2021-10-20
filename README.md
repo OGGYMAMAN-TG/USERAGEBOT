@@ -55,10 +55,10 @@ details><summary>Deploy To Heroku</summary>
 <a href="https://heroku.com/deploy?template=https://github.com/irash1234567/USERAGEBOT/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
-  ### PRE REQUEST IDENTYFY    
+  ## PRE REQUEST IDENTYFY    
 
 
- *  -__YOUR BOT STRING SESSION [STRINGSESSION](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1)
+ *  -__ [STRINGSESSION](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1)
  *  -__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
 
 * -__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org)
