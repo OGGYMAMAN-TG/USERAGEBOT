@@ -49,7 +49,7 @@
 
 ### deploy to heroku
 
-details><summary>Deploy To Heroku</summary>
+<details><summary>Deploy To Heroku</summary>
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/irash1234567/USERAGEBOT/tree/main">
