@@ -52,7 +52,7 @@
 details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/irash1234567/USERAGEBOT/tree/main">
+*<a href="https://heroku.com/deploy?template=https://github.com/irash1234567/USERAGEBOT/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="
 
 ### Pre Requisites
@@ -60,7 +60,7 @@ details><summary>Deploy To Heroku</summary>
 
 
 
- *  ->__YOUR BOT STRING SESSION [STRINGSESSION](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1) 🔌
+  * ->__YOUR BOT STRING SESSION [STRINGSESSION](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1) 🔌
  *  ->__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
 
 * ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org)
