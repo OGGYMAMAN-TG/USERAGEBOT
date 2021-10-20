@@ -47,16 +47,16 @@
 * [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane)
 * [UniBorg](https://github.com/SpEcHiDe/UniBorg)
 
-### deploy
+### deploy to heroku
 
 details><summary>Deploy To Heroku</summary>
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/irash1234567/USERAGEBOT/tree/main">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
-       
-# Pre Requisites
+  ### PRE REQUEST IDENTYFY    
+
 
  *  ->__YOUR BOT STRING SESSION [STRINGSESSION](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1)
  *  ->__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
