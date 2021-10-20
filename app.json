@@ -1,0 +1,46 @@
+{
+    "name": "USERGE BOT",
+    "description": "A USERGE Bot Which Doesnt Need Manuall USER BOT",
+    "logo": "https://telegra.ph/file/667e15c821117633d07bd.png",
+    
+    "website": "https://github.com/irash1234567",
+    "repository": "https://github.com/irash1234567/USERAGEBOT",
+    "success_url": "https://telegram.dog/ULTRONBOTS",
+    "env": {
+        "APP_ID": {
+            "description": "Your APP ID From my.telegram.org or @UseTGXBot",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash From my.telegram.org or @UseTGXBot",
+            "value": ""
+        },
+        "CHANNEL_ID": {
+            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "value": ""
+        },
+        "HU_STRING_SESSION": {
+            "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
+            "value": ""
+        },
+        "USER_ID": {
+            "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
+            "value":
+     },
+        "BOT_TOKEN": {
+            "description": "BOT TOKEN. Generated From @BOTFATHER",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
