@@ -54,8 +54,8 @@ details><summary>Deploy To Heroku</summary>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/irash1234567/USERAGEBOT/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"
-</a>
-</p>
+
+       
 # Pre Requisites
 
  *  ->__YOUR BOT STRING SESSION [STRINGSESSION](https://replit.com/@MHD-IRASHIRASH/TEAM-USERAGE?v=1)
